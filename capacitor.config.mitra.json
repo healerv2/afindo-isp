@@ -1,0 +1,18 @@
+{
+  "appId": "com.afindo.mitra",
+  "appName": "AfindoTra",
+  "webDir": "out",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "backgroundColor": "#ffffff",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP"
+    }
+  },
+  "server": {
+    "hostname": "app.afindo.com",
+    "androidScheme": "https"
+  }
+}
